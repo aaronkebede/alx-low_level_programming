@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main - assigns a random number n 
  * it executes, and prints it

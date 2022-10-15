@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - prints single digits of base 10 from 0
  * Return: 0
